@@ -95,12 +95,17 @@ public class Main {
        }
         public static void task7(){
             System.out.println("Задание номер 7");
-            int one = 32;
+            int one = 1100;
             int two = 43;
-            int three = 47;
-            if (one<two && one<three){
-
-
+            int three = 11;
+            if (one>two && one>three){
+                System.out.println("one наибольшее число");
+            }
+            else if(two>one && two>three){
+                System.out.println("two наибольшее число");
+            }
+            else if (three>one && three>two){
+                System.out.println("three наибоьлшее число");
             }
 
         }
