@@ -95,7 +95,7 @@ public class Main {
        }
         public static void task7(){
             System.out.println("Задание номер 7");
-            int one = 1100;
+            int one = 23;
             int two = 43;
             int three = 11;
             if (one>two && one>three){
