@@ -99,7 +99,7 @@ public class Main {
             int two = 43;
             int three = 47;
             if (one<two && one<three){
-                System.out.println("число one больше числа three");
+
 
             }
 
